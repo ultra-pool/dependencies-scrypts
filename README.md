@@ -1,5 +1,5 @@
 # dependencies-scrypts
-Scrypts to install dependencies for newer wallets that are using more up to dependencies.
+Scrypts to install dependencies for newer wallets that are using more up to date dependencies.
 
 Tested on 
 Ubuntu 18
